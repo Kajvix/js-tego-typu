@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: dimgray;
+}
+
+.container{
+    padding: 20px;
+    width: 960px;
+    background-color: lightgray;
+    height: 1500px;
+    margin: auto;
+
+}
+
+.top{
+    margin: auto;
+    width: 950px;
+    height: 75px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.tego{
+    margin: auto;
+    text-align: center;
+    width: 950px;
+    font-size: 20px;
+
+}
+
+#in{
+    height: 31px;
+    width: 100px;
+    border: darkblue solid 2px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.przycisk{
+    height: 35px;
+    width: 75px;
+    background-color: black;
+    color: white;
+}
+
+
